@@ -472,7 +472,7 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   font-size: 14px;
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
   position: relative;
 }
 
@@ -530,7 +530,7 @@ h6 {
 }
 
 .footer .footer-top {
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 .footer .social-links a {
@@ -1950,6 +1950,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
